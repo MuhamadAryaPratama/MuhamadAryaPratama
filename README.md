@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Perkenalkan nama saya **Muhamad Arya Pratama**.<br>
+
+Saya merupakam seorang Junior Web Developer.
