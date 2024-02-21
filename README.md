@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 Perkenalkan nama saya **Muhamad Arya Pratama**.<br>
 
-Saya merupakam seorang Junior Web Developer.
+Saya merupakan seorang Junior Web Developer.
